@@ -1,0 +1,7 @@
+C:\EmekWebRepo\C#\ADO_Net_Connected_Mimari\SqlCommandKullanimi\bin\Debug\SqlCommandKullanimi.exe.config
+C:\EmekWebRepo\C#\ADO_Net_Connected_Mimari\SqlCommandKullanimi\bin\Debug\SqlCommandKullanimi.exe
+C:\EmekWebRepo\C#\ADO_Net_Connected_Mimari\SqlCommandKullanimi\bin\Debug\SqlCommandKullanimi.pdb
+C:\EmekWebRepo\C#\ADO_Net_Connected_Mimari\SqlCommandKullanimi\obj\Debug\SqlCommandKullanimi.csproj.AssemblyReference.cache
+C:\EmekWebRepo\C#\ADO_Net_Connected_Mimari\SqlCommandKullanimi\obj\Debug\SqlCommandKullanimi.csproj.CoreCompileInputs.cache
+C:\EmekWebRepo\C#\ADO_Net_Connected_Mimari\SqlCommandKullanimi\obj\Debug\SqlCommandKullanimi.exe
+C:\EmekWebRepo\C#\ADO_Net_Connected_Mimari\SqlCommandKullanimi\obj\Debug\SqlCommandKullanimi.pdb
