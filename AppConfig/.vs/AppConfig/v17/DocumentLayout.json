@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\EmekWebRepo\\C#\\ADO_Net_Connected_Mimari\\AppConfig\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0853A11F-2831-4FFF-B710-47AAE9506A37}|AppConfig.csproj|c:\\emekwebrepo\\c#\\ado_net_connected_mimari\\appconfig\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0853A11F-2831-4FFF-B710-47AAE9506A37}|AppConfig.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0853A11F-2831-4FFF-B710-47AAE9506A37}|AppConfig.csproj|C:\\EmekWebRepo\\C#\\ADO_Net_Connected_Mimari\\AppConfig\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{0853A11F-2831-4FFF-B710-47AAE9506A37}|AppConfig.csproj|solutionrelative:app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0853A11F-2831-4FFF-B710-47AAE9506A37}|AppConfig.csproj|c:\\emekwebrepo\\c#\\ado_net_connected_mimari\\appconfig\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{0853A11F-2831-4FFF-B710-47AAE9506A37}|AppConfig.csproj|solutionrelative:app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+      "AbsoluteMoniker": "D:0:0:{0853A11F-2831-4FFF-B710-47AAE9506A37}|AppConfig.csproj|c:\\emekwebrepo\\c#\\ado_net_connected_mimari\\appconfig\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0853A11F-2831-4FFF-B710-47AAE9506A37}|AppConfig.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,26 +30,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "App.config",
               "DocumentMoniker": "C:\\EmekWebRepo\\C#\\ADO_Net_Connected_Mimari\\AppConfig\\App.config",
               "RelativeDocumentMoniker": "App.config",
               "ToolTip": "C:\\EmekWebRepo\\C#\\ADO_Net_Connected_Mimari\\AppConfig\\App.config",
               "RelativeToolTip": "App.config",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAACQAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAB1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
               "WhenOpened": "2024-10-27T20:52:56.47Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\EmekWebRepo\\C#\\ADO_Net_Connected_Mimari\\AppConfig\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\EmekWebRepo\\C#\\ADO_Net_Connected_Mimari\\AppConfig\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAswBEAAABnAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAswAsAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-27T19:06:43.653Z",
               "EditorCaption": ""

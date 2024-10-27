@@ -1,0 +1,7 @@
+C:\EmekWebRepo\C#\ADO_Net_Connected_Mimari\Baglanti_Kontrol\bin\Debug\Baglanti_Kontrol.exe.config
+C:\EmekWebRepo\C#\ADO_Net_Connected_Mimari\Baglanti_Kontrol\bin\Debug\Baglanti_Kontrol.exe
+C:\EmekWebRepo\C#\ADO_Net_Connected_Mimari\Baglanti_Kontrol\bin\Debug\Baglanti_Kontrol.pdb
+C:\EmekWebRepo\C#\ADO_Net_Connected_Mimari\Baglanti_Kontrol\obj\Debug\Baglanti_Kontrol.csproj.AssemblyReference.cache
+C:\EmekWebRepo\C#\ADO_Net_Connected_Mimari\Baglanti_Kontrol\obj\Debug\Baglanti_Kontrol.csproj.CoreCompileInputs.cache
+C:\EmekWebRepo\C#\ADO_Net_Connected_Mimari\Baglanti_Kontrol\obj\Debug\Baglanti_Kontrol.exe
+C:\EmekWebRepo\C#\ADO_Net_Connected_Mimari\Baglanti_Kontrol\obj\Debug\Baglanti_Kontrol.pdb
