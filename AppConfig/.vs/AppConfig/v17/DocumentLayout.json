@@ -1,0 +1,62 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\EmekWebRepo\\C#\\ADO_Net_Connected_Mimari\\AppConfig\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0853A11F-2831-4FFF-B710-47AAE9506A37}|AppConfig.csproj|c:\\emekwebrepo\\c#\\ado_net_connected_mimari\\appconfig\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0853A11F-2831-4FFF-B710-47AAE9506A37}|AppConfig.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0853A11F-2831-4FFF-B710-47AAE9506A37}|AppConfig.csproj|c:\\emekwebrepo\\c#\\ado_net_connected_mimari\\appconfig\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{0853A11F-2831-4FFF-B710-47AAE9506A37}|AppConfig.csproj|solutionrelative:app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\EmekWebRepo\\C#\\ADO_Net_Connected_Mimari\\AppConfig\\App.config",
+              "RelativeDocumentMoniker": "App.config",
+              "ToolTip": "C:\\EmekWebRepo\\C#\\ADO_Net_Connected_Mimari\\AppConfig\\App.config",
+              "RelativeToolTip": "App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAACQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-10-27T20:52:56.47Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\EmekWebRepo\\C#\\ADO_Net_Connected_Mimari\\AppConfig\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\EmekWebRepo\\C#\\ADO_Net_Connected_Mimari\\AppConfig\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAswBEAAABnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T19:06:43.653Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
