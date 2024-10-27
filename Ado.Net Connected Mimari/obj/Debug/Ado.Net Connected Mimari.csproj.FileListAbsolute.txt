@@ -1,0 +1,7 @@
+C:\EmekWebRepo\C#\ADO_Net_Connected_Mimari\Ado.Net Connected Mimari\obj\Debug\Ado.Net Connected Mimari.csproj.AssemblyReference.cache
+C:\EmekWebRepo\C#\ADO_Net_Connected_Mimari\Ado.Net Connected Mimari\obj\Debug\Ado.Net Connected Mimari.csproj.CoreCompileInputs.cache
+C:\EmekWebRepo\C#\ADO_Net_Connected_Mimari\Ado.Net Connected Mimari\bin\Debug\Ado.Net Connected Mimari.exe.config
+C:\EmekWebRepo\C#\ADO_Net_Connected_Mimari\Ado.Net Connected Mimari\bin\Debug\Ado.Net Connected Mimari.exe
+C:\EmekWebRepo\C#\ADO_Net_Connected_Mimari\Ado.Net Connected Mimari\bin\Debug\Ado.Net Connected Mimari.pdb
+C:\EmekWebRepo\C#\ADO_Net_Connected_Mimari\Ado.Net Connected Mimari\obj\Debug\Ado.Net Connected Mimari.exe
+C:\EmekWebRepo\C#\ADO_Net_Connected_Mimari\Ado.Net Connected Mimari\obj\Debug\Ado.Net Connected Mimari.pdb
