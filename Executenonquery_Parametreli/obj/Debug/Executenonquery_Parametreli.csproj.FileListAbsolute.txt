@@ -1,0 +1,7 @@
+C:\EmekWebRepo\C#\ADO_Net_Connected_Mimari\Executenonquery_Parametreli\obj\Debug\Executenonquery_Parametreli.csproj.AssemblyReference.cache
+C:\EmekWebRepo\C#\ADO_Net_Connected_Mimari\Executenonquery_Parametreli\obj\Debug\Executenonquery_Parametreli.csproj.CoreCompileInputs.cache
+C:\EmekWebRepo\C#\ADO_Net_Connected_Mimari\Executenonquery_Parametreli\bin\Debug\Executenonquery_Parametreli.exe.config
+C:\EmekWebRepo\C#\ADO_Net_Connected_Mimari\Executenonquery_Parametreli\bin\Debug\Executenonquery_Parametreli.exe
+C:\EmekWebRepo\C#\ADO_Net_Connected_Mimari\Executenonquery_Parametreli\bin\Debug\Executenonquery_Parametreli.pdb
+C:\EmekWebRepo\C#\ADO_Net_Connected_Mimari\Executenonquery_Parametreli\obj\Debug\Executenonquery_Parametreli.exe
+C:\EmekWebRepo\C#\ADO_Net_Connected_Mimari\Executenonquery_Parametreli\obj\Debug\Executenonquery_Parametreli.pdb
