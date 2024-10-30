@@ -1,0 +1,7 @@
+C:\EmekWebRepo\C#\ADO_Net_Connected_Mimari\ExecuteScalerParametreli\bin\Debug\ExecuteScalerParametreli.exe.config
+C:\EmekWebRepo\C#\ADO_Net_Connected_Mimari\ExecuteScalerParametreli\bin\Debug\ExecuteScalerParametreli.exe
+C:\EmekWebRepo\C#\ADO_Net_Connected_Mimari\ExecuteScalerParametreli\bin\Debug\ExecuteScalerParametreli.pdb
+C:\EmekWebRepo\C#\ADO_Net_Connected_Mimari\ExecuteScalerParametreli\obj\Debug\ExecuteScalerParametreli.csproj.AssemblyReference.cache
+C:\EmekWebRepo\C#\ADO_Net_Connected_Mimari\ExecuteScalerParametreli\obj\Debug\ExecuteScalerParametreli.csproj.CoreCompileInputs.cache
+C:\EmekWebRepo\C#\ADO_Net_Connected_Mimari\ExecuteScalerParametreli\obj\Debug\ExecuteScalerParametreli.exe
+C:\EmekWebRepo\C#\ADO_Net_Connected_Mimari\ExecuteScalerParametreli\obj\Debug\ExecuteScalerParametreli.pdb

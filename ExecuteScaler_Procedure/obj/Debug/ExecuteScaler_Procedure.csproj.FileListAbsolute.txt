@@ -1,0 +1,7 @@
+C:\EmekWebRepo\C#\ADO_Net_Connected_Mimari\ExecuteScaler_Procedure\bin\Debug\ExecuteScaler_Procedure.exe.config
+C:\EmekWebRepo\C#\ADO_Net_Connected_Mimari\ExecuteScaler_Procedure\bin\Debug\ExecuteScaler_Procedure.exe
+C:\EmekWebRepo\C#\ADO_Net_Connected_Mimari\ExecuteScaler_Procedure\bin\Debug\ExecuteScaler_Procedure.pdb
+C:\EmekWebRepo\C#\ADO_Net_Connected_Mimari\ExecuteScaler_Procedure\obj\Debug\ExecuteScaler_Procedure.csproj.AssemblyReference.cache
+C:\EmekWebRepo\C#\ADO_Net_Connected_Mimari\ExecuteScaler_Procedure\obj\Debug\ExecuteScaler_Procedure.csproj.CoreCompileInputs.cache
+C:\EmekWebRepo\C#\ADO_Net_Connected_Mimari\ExecuteScaler_Procedure\obj\Debug\ExecuteScaler_Procedure.exe
+C:\EmekWebRepo\C#\ADO_Net_Connected_Mimari\ExecuteScaler_Procedure\obj\Debug\ExecuteScaler_Procedure.pdb
