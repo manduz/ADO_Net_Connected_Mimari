@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExecuteReader_Parametreli", "ExecuteReader_Parametreli.csproj", "{026E930B-EB2A-4066-B6FD-617629A726AB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{026E930B-EB2A-4066-B6FD-617629A726AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{026E930B-EB2A-4066-B6FD-617629A726AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{026E930B-EB2A-4066-B6FD-617629A726AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{026E930B-EB2A-4066-B6FD-617629A726AB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D0BC8AD5-14B7-4271-9CBE-825D4ADA26DA}
+	EndGlobalSection
+EndGlobal

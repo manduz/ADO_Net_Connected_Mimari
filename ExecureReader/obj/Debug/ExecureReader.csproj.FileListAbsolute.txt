@@ -1,0 +1,7 @@
+C:\EmekWebRepo\C#\ADO_Net_Connected_Mimari\ExecureReader\bin\Debug\ExecureReader.exe.config
+C:\EmekWebRepo\C#\ADO_Net_Connected_Mimari\ExecureReader\bin\Debug\ExecureReader.exe
+C:\EmekWebRepo\C#\ADO_Net_Connected_Mimari\ExecureReader\bin\Debug\ExecureReader.pdb
+C:\EmekWebRepo\C#\ADO_Net_Connected_Mimari\ExecureReader\obj\Debug\ExecureReader.csproj.AssemblyReference.cache
+C:\EmekWebRepo\C#\ADO_Net_Connected_Mimari\ExecureReader\obj\Debug\ExecureReader.csproj.CoreCompileInputs.cache
+C:\EmekWebRepo\C#\ADO_Net_Connected_Mimari\ExecureReader\obj\Debug\ExecureReader.exe
+C:\EmekWebRepo\C#\ADO_Net_Connected_Mimari\ExecureReader\obj\Debug\ExecureReader.pdb

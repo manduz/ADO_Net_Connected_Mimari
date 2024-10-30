@@ -1,0 +1,7 @@
+C:\EmekWebRepo\C#\ADO_Net_Connected_Mimari\ExecuteReader_Parametreli\bin\Debug\ExecuteReader_Parametreli.exe.config
+C:\EmekWebRepo\C#\ADO_Net_Connected_Mimari\ExecuteReader_Parametreli\bin\Debug\ExecuteReader_Parametreli.exe
+C:\EmekWebRepo\C#\ADO_Net_Connected_Mimari\ExecuteReader_Parametreli\bin\Debug\ExecuteReader_Parametreli.pdb
+C:\EmekWebRepo\C#\ADO_Net_Connected_Mimari\ExecuteReader_Parametreli\obj\Debug\ExecuteReader_Parametreli.csproj.AssemblyReference.cache
+C:\EmekWebRepo\C#\ADO_Net_Connected_Mimari\ExecuteReader_Parametreli\obj\Debug\ExecuteReader_Parametreli.csproj.CoreCompileInputs.cache
+C:\EmekWebRepo\C#\ADO_Net_Connected_Mimari\ExecuteReader_Parametreli\obj\Debug\ExecuteReader_Parametreli.exe
+C:\EmekWebRepo\C#\ADO_Net_Connected_Mimari\ExecuteReader_Parametreli\obj\Debug\ExecuteReader_Parametreli.pdb
